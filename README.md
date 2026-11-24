@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Machine learning 
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me-  ms8979981216@gmail.com Just mail it
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Gta VI has more budget than Burj Khalifa 
+- 😄 Pronouns: he/him 
 
 <!---
 Mridul635/Mridul635 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
